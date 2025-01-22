@@ -33,7 +33,7 @@ namespace COMP003A.LectureActivity2
             // Step 3.2: Perform calculations 
             int futureAge = userAge + 5; // Calculate the user's age in 5 years 
             bool isAdult = userAge >= 18; // Determine if the user is 18 or older 
-            bool isAdultStudent = isStudent && isAdult; // Determine if the user is both a student and an adult
+            bool isAdultStudent = isStudent && isAdult; // Determine if the user is both a student and an adult 
         }
     }
 }
