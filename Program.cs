@@ -29,8 +29,6 @@ namespace COMP003A.LectureActivity2
             // Prompt the user to indicate if they are a student 
             Console.Write("Are you a student? (true/false): ");
             isStudent = bool.Parse(Console.ReadLine()); // Convert and assign the user's input to isStudent
-
-
         }
     }
 }
